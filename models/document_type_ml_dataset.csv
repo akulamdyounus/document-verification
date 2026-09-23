@@ -1,0 +1,101 @@
+id,text,label,is_synthetic
+passport_021,passport number nationality surname given names date of birth issuing authority generated training example,Passport,True
+driving_licence_015,driver licence number date of issue date of expiry vehicle categories restrictions fictional test document no real personal information,Driving Licence,True
+other_document_001,employment application position department qualifications work experience contact information generated training example,Other Document,True
+driving_licence_023,driver licence number date of issue date of expiry vehicle categories restrictions example OCR text for software testing,Driving Licence,True
+driving_licence_025,driving licence holder name date of birth licence number issue date expiry date categories synthetic document text for classifier training,Driving Licence,True
+passport_012,travel document passport nationality date of birth place of birth expiry date synthetic document text for classifier training,Passport,True
+driving_licence_009,driving license driver license license number date of birth expiry date vehicle categories fictional test document no real personal information,Driving Licence,True
+bank_statement_001,bank statement account balance transaction date description debit credit closing balance generated training example,Bank Statement,True
+passport_003,passport document surname given names nationality date of birth date of expiry synthetic document text for classifier training,Passport,True
+bank_statement_004,bank statement customer account number transaction history payment deposit withdrawal available balance example OCR text for software testing,Bank Statement,True
+passport_009,passport applicant surname given names nationality document number date of birth generated training example,Passport,True
+bank_statement_025,bank statement account balance transaction date description debit credit closing balance fictional test document no real personal information,Bank Statement,True
+driving_licence_020,driving licence holder name date of birth licence number issue date expiry date categories sample record for machine learning document classification,Driving Licence,True
+passport_015,passport document surname given names nationality date of birth date of expiry example OCR text for software testing,Passport,True
+driving_licence_012,driving license identification number holder date of birth issuing authority vehicle class synthetic document text for classifier training,Driving Licence,True
+driving_licence_014,driving license driver license license number date of birth expiry date vehicle categories example OCR text for software testing,Driving Licence,True
+passport_020,passport nationality date of birth place of birth passport number surname given names fictional test document no real personal information,Passport,True
+bank_statement_023,account statement account number opening balance deposits withdrawals transfers closing balance generated training example,Bank Statement,True
+driving_licence_008,driver licence number date of issue date of expiry vehicle categories restrictions fictional test document no real personal information,Driving Licence,True
+passport_002,passport number nationality surname given names date of birth issuing authority synthetic document text for classifier training,Passport,True
+bank_statement_018,account statement account number opening balance deposits withdrawals transfers closing balance example OCR text for software testing,Bank Statement,True
+other_document_025,safe work procedure template task name activity site project name personal protective equipment fictional test document no real personal information,Other Document,True
+other_document_004,safe work procedure template task name activity site project name personal protective equipment sample record for machine learning document classification,Other Document,True
+bank_statement_009,bank statement account balance transaction date description debit credit closing balance synthetic document text for classifier training,Bank Statement,True
+driving_licence_022,driving licence holder name date of birth licence number issue date expiry date categories synthetic document text for classifier training,Driving Licence,True
+driving_licence_018,driving license driver license license number date of birth expiry date vehicle categories sample record for machine learning document classification,Driving Licence,True
+passport_022,passport number nationality surname given names date of birth issuing authority sample record for machine learning document classification,Passport,True
+bank_statement_017,account statement account number opening balance deposits withdrawals transfers closing balance sample record for machine learning document classification,Bank Statement,True
+driving_licence_016,driving license identification number holder date of birth issuing authority vehicle class synthetic document text for classifier training,Driving Licence,True
+bank_statement_015,bank statement account number statement period opening balance closing balance transaction deposit withdrawal sample record for machine learning document classification,Bank Statement,True
+passport_023,travel document passport nationality date of birth place of birth expiry date generated training example,Passport,True
+other_document_019,invoice invoice number supplier customer item description quantity total amount payment terms fictional test document no real personal information,Other Document,True
+passport_019,passport nationality date of birth place of birth passport number surname given names example OCR text for software testing,Passport,True
+other_document_020,safe work procedure template task name activity site project name personal protective equipment generated training example,Other Document,True
+other_document_017,insurance policy coverage premium policy period exclusions terms and conditions sample record for machine learning document classification,Other Document,True
+driving_licence_013,driving license identification number holder date of birth issuing authority vehicle class synthetic document text for classifier training,Driving Licence,True
+driving_licence_024,driver licence number date of issue date of expiry vehicle categories restrictions synthetic document text for classifier training,Driving Licence,True
+bank_statement_019,bank statement account balance transaction date description debit credit closing balance example OCR text for software testing,Bank Statement,True
+other_document_006,school timetable subject classroom teacher semester examination schedule sample record for machine learning document classification,Other Document,True
+bank_statement_007,bank account statement statement period transaction reference debit credit balance sample record for machine learning document classification,Bank Statement,True
+driving_licence_001,driving licence holder name date of birth licence number issue date expiry date categories generated training example,Driving Licence,True
+bank_statement_022,bank statement customer account number transaction history payment deposit withdrawal available balance sample record for machine learning document classification,Bank Statement,True
+other_document_023,invoice invoice number supplier customer item description quantity total amount payment terms sample record for machine learning document classification,Other Document,True
+bank_statement_021,bank statement customer account number transaction history payment deposit withdrawal available balance synthetic document text for classifier training,Bank Statement,True
+driving_licence_002,driving licence holder name date of birth licence number issue date expiry date categories generated training example,Driving Licence,True
+passport_011,passport document surname given names nationality date of birth date of expiry generated training example,Passport,True
+bank_statement_012,bank account statement statement period transaction reference debit credit balance generated training example,Bank Statement,True
+passport_006,travel document passport nationality date of birth place of birth expiry date sample record for machine learning document classification,Passport,True
+passport_001,passport nationality date of birth place of birth passport number surname given names sample record for machine learning document classification,Passport,True
+driving_licence_010,driving licence holder name date of birth licence number issue date expiry date categories synthetic document text for classifier training,Driving Licence,True
+driving_licence_017,driving licence holder name date of birth licence number issue date expiry date categories sample record for machine learning document classification,Driving Licence,True
+passport_004,passport nationality date of birth place of birth passport number surname given names generated training example,Passport,True
+other_document_002,safe work procedure template task name activity site project name personal protective equipment generated training example,Other Document,True
+bank_statement_014,account statement account number opening balance deposits withdrawals transfers closing balance generated training example,Bank Statement,True
+other_document_024,school timetable subject classroom teacher semester examination schedule sample record for machine learning document classification,Other Document,True
+other_document_012,employment application position department qualifications work experience contact information fictional test document no real personal information,Other Document,True
+other_document_015,project report introduction methodology results conclusion recommendations fictional test document no real personal information,Other Document,True
+driving_licence_004,driving licence driver licence licence number date of birth date of expiry categories synthetic document text for classifier training,Driving Licence,True
+passport_005,passport nationality date of birth place of birth passport number surname given names generated training example,Passport,True
+other_document_003,product manual installation instructions safety information maintenance troubleshooting example OCR text for software testing,Other Document,True
+other_document_007,school timetable subject classroom teacher semester examination schedule generated training example,Other Document,True
+passport_016,passport number nationality surname given names date of birth issuing authority fictional test document no real personal information,Passport,True
+driving_licence_005,driving licence holder name date of birth licence number issue date expiry date categories sample record for machine learning document classification,Driving Licence,True
+other_document_022,school timetable subject classroom teacher semester examination schedule sample record for machine learning document classification,Other Document,True
+passport_024,passport nationality date of birth place of birth passport number surname given names example OCR text for software testing,Passport,True
+other_document_005,product manual installation instructions safety information maintenance troubleshooting fictional test document no real personal information,Other Document,True
+passport_018,passport number nationality surname given names date of birth issuing authority sample record for machine learning document classification,Passport,True
+bank_statement_008,bank statement account number statement period opening balance closing balance transaction deposit withdrawal sample record for machine learning document classification,Bank Statement,True
+other_document_018,school timetable subject classroom teacher semester examination schedule synthetic document text for classifier training,Other Document,True
+other_document_010,employment application position department qualifications work experience contact information synthetic document text for classifier training,Other Document,True
+other_document_013,project report introduction methodology results conclusion recommendations synthetic document text for classifier training,Other Document,True
+passport_014,passport number nationality surname given names date of birth issuing authority sample record for machine learning document classification,Passport,True
+driving_licence_019,driving licence holder name date of birth licence number issue date expiry date categories example OCR text for software testing,Driving Licence,True
+bank_statement_002,bank statement customer account number transaction history payment deposit withdrawal available balance fictional test document no real personal information,Bank Statement,True
+passport_008,passport document surname given names nationality date of birth date of expiry synthetic document text for classifier training,Passport,True
+other_document_008,invoice invoice number supplier customer item description quantity total amount payment terms sample record for machine learning document classification,Other Document,True
+passport_007,passport nationality date of birth place of birth passport number surname given names sample record for machine learning document classification,Passport,True
+bank_statement_010,bank account statement statement period transaction reference debit credit balance generated training example,Bank Statement,True
+other_document_021,school timetable subject classroom teacher semester examination schedule generated training example,Other Document,True
+bank_statement_005,account statement account number opening balance deposits withdrawals transfers closing balance synthetic document text for classifier training,Bank Statement,True
+driving_licence_021,driving license driver license license number date of birth expiry date vehicle categories generated training example,Driving Licence,True
+bank_statement_006,bank statement account balance transaction date description debit credit closing balance generated training example,Bank Statement,True
+other_document_009,insurance policy coverage premium policy period exclusions terms and conditions sample record for machine learning document classification,Other Document,True
+passport_013,travel document passport nationality date of birth place of birth expiry date generated training example,Passport,True
+passport_025,passport nationality date of birth place of birth passport number surname given names generated training example,Passport,True
+bank_statement_003,bank statement customer account number transaction history payment deposit withdrawal available balance example OCR text for software testing,Bank Statement,True
+other_document_014,school timetable subject classroom teacher semester examination schedule fictional test document no real personal information,Other Document,True
+driving_licence_007,driver licence number date of issue date of expiry vehicle categories restrictions fictional test document no real personal information,Driving Licence,True
+bank_statement_011,bank statement account number statement period opening balance closing balance transaction deposit withdrawal example OCR text for software testing,Bank Statement,True
+other_document_016,insurance policy coverage premium policy period exclusions terms and conditions generated training example,Other Document,True
+bank_statement_024,bank statement customer account number transaction history payment deposit withdrawal available balance synthetic document text for classifier training,Bank Statement,True
+passport_017,passport document surname given names nationality date of birth date of expiry synthetic document text for classifier training,Passport,True
+bank_statement_020,bank statement account number statement period opening balance closing balance transaction deposit withdrawal fictional test document no real personal information,Bank Statement,True
+driving_licence_003,driving license driver license license number date of birth expiry date vehicle categories sample record for machine learning document classification,Driving Licence,True
+bank_statement_013,bank account statement statement period transaction reference debit credit balance generated training example,Bank Statement,True
+other_document_011,insurance policy coverage premium policy period exclusions terms and conditions generated training example,Other Document,True
+driving_licence_011,driving licence holder name date of birth licence number issue date expiry date categories sample record for machine learning document classification,Driving Licence,True
+driving_licence_006,driving license driver license license number date of birth expiry date vehicle categories sample record for machine learning document classification,Driving Licence,True
+bank_statement_016,bank statement customer account number transaction history payment deposit withdrawal available balance fictional test document no real personal information,Bank Statement,True
+passport_010,passport nationality date of birth place of birth passport number surname given names generated training example,Passport,True

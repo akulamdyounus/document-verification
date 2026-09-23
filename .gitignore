@@ -1,0 +1,26 @@
+﻿# Tesseract OCR files
+tessdata/
+*.1.html
+*.jar
+*.traineddata
+
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS / Local artifacts
+.DS_Store
+Thumbs.db
+*.log
+
+# Windows binaries (Not needed in cloud/Linux)
+*.dll
+*.exe
+!models/*.pkl
